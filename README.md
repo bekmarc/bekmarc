@@ -4,7 +4,7 @@ I'm a fullstack Engineer. I like to use React, Angular and NextJS for web projec
 and React Native for mobile projects. For backend i use NestJs. For design i use figma and adobe suite.<br/>
 I love web accessibility and design ui/ux.<br/>
 
-What i'm up to:
+What i'm up to:<br/>
 🌱 Always learning<br/>
 💬 Ask me about Angular,React, NextJS, NestJS, TypeScript and JavaScript<br/>
 📫 How to reach me: Email, Twitter and Linkedin<br/>
