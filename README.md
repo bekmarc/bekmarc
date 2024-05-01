@@ -9,9 +9,9 @@ What i'm up to:<br/>
 💬 Ask me about Angular,React, NextJS, NestJS, TypeScript and JavaScript<br/>
 📫 How to reach me: Email, Twitter and Linkedin<br/>
 
-Languages:
--TypeScript<br/>
--React Native<br/>
--React & NextJS<br/>
--NestJS<br/>
+Languages:<br/>
+- TypeScript<br/>
+- React Native<br/>
+- React & NextJS<br/>
+- NestJS<br/>
 -Angular<br/>
