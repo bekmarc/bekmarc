@@ -1,5 +1,3 @@
-# bekoutaremarco/README.md
-
 Hi there 👋, It's Marco Koumana BEKOUTARE,
 
 I'm a fullstack Engineer. I like to use React, Angular and NextJS for web projects,<br/>
